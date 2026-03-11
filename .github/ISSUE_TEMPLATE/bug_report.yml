@@ -1,0 +1,28 @@
+name: Reporte de bug
+description: Informar de un error o comportamiento inesperado
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción del error
+      description: Explica qué ocurre
+    validations:
+      required: true
+
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para reproducirlo
+      description: Describe cómo reproducir el problema
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamiento esperado
+      description: Explica qué debería ocurrir
+    validations:
+      required: true
