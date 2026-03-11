@@ -1,0 +1,22 @@
+name: Solicitud de tarea
+description: Solicitar trabajar en una tarea concreta
+title: "[Solicitud] "
+labels: ["task-request"]
+body:
+  - type: input
+    id: tarea
+    attributes:
+      label: Tarea solicitada
+      description: Indica el nombre o ruta de la tarea
+      placeholder: tasks/beginner/task-001-search-bar.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: Explica brevemente por qué te interesa esta tarea o qué experiencia tienes
+      placeholder: Me interesa esta tarea porque...
+    validations:
+      required: true
