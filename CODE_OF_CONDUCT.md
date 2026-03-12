@@ -1,11 +1,4 @@
 
----
-
-# 3. `CODE_OF_CONDUCT.md`
-
-Pega esto en `CODE_OF_CONDUCT.md`:
-
-```md
 # 💙 Código de conducta
 
 ## 🌍 Nuestro compromiso
@@ -49,3 +42,4 @@ Las personas mantenedoras del proyecto podrán intervenir si detectan comportami
 ## 🎯 Objetivo
 
 Este proyecto existe para aprender, colaborar y construir experiencia real en open source. Queremos que cualquier persona pueda participar sintiéndose bienvenida.
+
