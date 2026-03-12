@@ -1,11 +1,4 @@
 
----
-
-# 13. `tasks/intermediate/task-102-api-detail-page.md`
-
-Pega esto en `tasks/intermediate/task-102-api-detail-page.md`:
-
-```md
 # 🌐 Task 102 - API Detail Page
 
 ## Nivel
@@ -50,3 +43,4 @@ Además:
 ```text
 src/app/apis/[id]/page.tsx
 src/components/api-detail.tsx
+
