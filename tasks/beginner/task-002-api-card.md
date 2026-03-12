@@ -1,11 +1,4 @@
 
----
-
-# 10. `tasks/beginner/task-002-api-card.md`
-
-Pega esto en `tasks/beginner/task-002-api-card.md`:
-
-```md
 # 🧾 Task 002 - API Card Component
 
 ## Nivel
@@ -49,3 +42,4 @@ Además:
 ```text
 src/components/api-card.tsx
 src/app/page.tsx
+
