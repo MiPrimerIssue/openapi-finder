@@ -1,11 +1,4 @@
 
----
-
-# 11. `tasks/beginner/task-003-empty-state.md`
-
-Pega esto en `tasks/beginner/task-003-empty-state.md`:
-
-```md
 # 📭 Task 003 - Empty State UI
 
 ## Nivel
@@ -45,3 +38,4 @@ Mensaje sugerido:
 ```text
 src/components/empty-state.tsx
 src/app/page.tsx
+
