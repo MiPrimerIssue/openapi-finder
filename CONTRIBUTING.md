@@ -1,11 +1,4 @@
 
----
-
-# 2. `CONTRIBUTING.md`
-
-Pega esto en `CONTRIBUTING.md`:
-
-```md
 # 🤝 Guía de contribución
 
 ¡Gracias por tu interés en contribuir a **OpenAPI Finder**! 🎉
@@ -48,3 +41,4 @@ feat/task-001-search-bar
 feat/task-002-api-card
 feat/task-101-category-filter
 fix/task-003-empty-state
+
