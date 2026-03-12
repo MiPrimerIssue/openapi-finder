@@ -1,11 +1,4 @@
 
----
-
-# 12. `tasks/intermediate/task-101-category-filter.md`
-
-Pega esto en `tasks/intermediate/task-101-category-filter.md`:
-
-```md
 # 🗂 Task 101 - Category Filter
 
 ## Nivel
@@ -43,3 +36,4 @@ Además de la búsqueda por nombre, la aplicación necesita una forma rápida de
 ```text
 src/components/category-filter.tsx
 src/app/page.tsx
+
