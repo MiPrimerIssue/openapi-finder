@@ -1,11 +1,4 @@
 
----
-
-# 14. `.github/pull_request_template.md`
-
-Pega esto en `.github/pull_request_template.md`:
-
-```md
 ## 📝 Resumen
 
 Explica brevemente qué has hecho en esta Pull Request.
@@ -42,3 +35,4 @@ Añade capturas si hay cambios visuales.
 - [ ] He revisado mis cambios antes de enviar la PR
 - [ ] He seguido la estructura del proyecto
 - [ ] He añadido contexto suficiente para facilitar la revisión
+
