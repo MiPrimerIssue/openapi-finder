@@ -1,11 +1,4 @@
 
----
-
-# 8. `tasks/README.md`
-
-Pega esto en `tasks/README.md`:
-
-```md
 # 📚 Tareas del proyecto
 
 En esta carpeta se organizan las tareas disponibles para contribuir a **OpenAPI Finder**.
@@ -42,3 +35,4 @@ No empieces una tarea sin haberla solicitado y haber sido asignado desde **MiPri
 ## 🎯 Objetivo
 
 Estas tareas están pensadas para que las contribuciones sean claras, acotadas y útiles tanto para el proyecto como para la persona que participa.
+
